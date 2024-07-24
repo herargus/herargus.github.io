@@ -1,14 +1,15 @@
 [
-    {
-        "name": "about.md",
-        "download_url": "/menu/about.md"
-    },
+    // {
+    //     "name": "about.md",
+    //     "download_url": "/menu/about.md"
+    // },
     {
         "name": "blog.md",
         "download_url": "/menu/blog.md"
-    },
-    {
-        "name": "contact.md",
-        "download_url": "/menu/contact.md"
     }
+    // ,
+    // {
+    //     "name": "contact.md",
+    //     "download_url": "/menu/contact.md"
+    // }
 ]
